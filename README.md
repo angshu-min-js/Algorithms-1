@@ -42,6 +42,8 @@ Completed
   - String Reverse
   - Parenthesis Matching
   - Infix to Postfix
+- Modular exponentiation
+- Modular multiplicative inverse
 
 
 Tests
@@ -52,3 +54,5 @@ Tests
     python -m tests.heap_test
     python -m tests.unionfind_test
     python -m tests.singly_linked_list_test
+    python -m tests.modular_exponentiation_test
+    python -m tests.modular_multiplicative_inverse_test
